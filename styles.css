@@ -9,7 +9,7 @@ body{margin:0;
 	height:100vh;
 	overflow:hidden;
 
-	background-image: url("https://private-user-images.githubusercontent.com/240648869/546933681-f5e6222f-0d61-4a53-a504-85995423a7c9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA2MTkyNjMsIm5iZiI6MTc3MDYxODk2MywicGF0aCI6Ii8yNDA2NDg4NjkvNTQ2OTMzNjgxLWY1ZTYyMjJmLTBkNjEtNGE1My1hNTA0LTg1OTk1NDIzYTdjOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwOVQwNjM2MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZWQ3OTNkMzA1MjQ0MjQ2YjllMzczM2QwNDMzZWI5MWIyYjY4MTI4ZmU2NmQxNDU0NWVmYjU0ODVmNDYzZWZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uaxWjD8MzNXeetzp2g04th3sS41tpr0xhzwuuiJzgqc"); /*  ใส่รูปตรงนี้ */
+	background-image: url("images/bgsknow.png"); /*  ใส่รูปตรงนี้ */
 	background-size: cover;          /* เต็มจอ */
 	background-position: center;
 	background-repeat: no-repeat;}
@@ -476,3 +476,4 @@ body{margin:0;
 	#field.admin .adminItem{flex-direction:column;align-items:flex-start;}
 	.deleteAdminBtn{width:100%;}
 }
+
