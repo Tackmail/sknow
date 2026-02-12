@@ -1,0 +1,19 @@
+{
+  "name": "snow-notes-server",
+  "version": "1.0.0",
+  "description": "Backend server for shared Snow Notes",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["notes", "shared", "snow"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "better-sqlite3": "^9.2.2"
+  }
+}
